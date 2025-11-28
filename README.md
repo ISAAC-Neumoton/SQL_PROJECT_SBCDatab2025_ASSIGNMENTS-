@@ -10,8 +10,10 @@ To design, build, and query a structured Library Database using SQL only. The sy
 
 ## Core Entities
 
-· Books – Details of all available books in the library
+· Books – Details of all available books in the librarr
+
 · Members – Registered members who can borrow books
+
 · Loans – Records of book borrow and return activities
 
 ## Project Phases
